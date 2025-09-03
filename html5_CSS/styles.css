@@ -2,10 +2,10 @@
 
 body {
   font-family: Arial, sans-serif;
-  margin: 15px;
-  padding: 15px;
+  margin: 15%;
+  padding: 15%;
   background-color: black;
-  color: white;
+  text-color: black;
 }
 
 header {
