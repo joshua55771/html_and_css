@@ -3,6 +3,6 @@
 <ul>
 <li><a href="demo/index.html" target="_blank"> intro into HTML</a><li>
 <li><a href="html5_CSS/index.html" target="_blank"> HTML5 and CSS</a><li>
-<li><a href="Advanced_CSS.html" target="blank">Advanced CSS</a><li>
+<li><a href="Advanced_CSS/index.html" target="blank">Advanced CSS</a><li>
 </ul>
 
