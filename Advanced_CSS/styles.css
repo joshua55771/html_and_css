@@ -24,7 +24,7 @@ nav ul {
 }
 
 nav a {
-  color: #fff;
+  color: #ffffff;
   text-decoration: none;
 }
 
@@ -50,9 +50,8 @@ main#container {
 }
 
 .responsive-img {
-  max-width: 100%;
-  height: auto;
-  margin-top: 1rem;
+  width: 60%;
+  margin-top: 5%;
 }
 
 .subheading {
