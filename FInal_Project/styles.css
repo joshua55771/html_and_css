@@ -193,9 +193,5 @@ nav li a {
   background-color: #eee;
   padding: 1rem;
   border-radius: 8px;
-  image {
-    width: 25%;
-    height: 25%;
-}
 }
 }
