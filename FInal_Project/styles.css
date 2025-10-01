@@ -49,6 +49,8 @@ button {
     margin: 10px 0;
 }
 
+
+
 #container8home {
     width: 90%;
     height: 90%;
@@ -149,7 +151,7 @@ main {
     border: #333 solid 2px;
     border-radius: 10px;
 }
-@media (min-width: 10000px) {
+@media (min-width: 1000px) {
     
 
 div {
@@ -157,7 +159,21 @@ div {
     height: 15%;
     width: 15%;
     background-color: black;
-    margin: 4%;
+    margin: 5%;
     float: left;
 }
+iframe {
+    display : block;
+    margin: 4%;
+    float: left;
+   
+}
+nav li {
+    display: inline;
+    margin: 0 15px;
+}
+navli a {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 10px 0;
 }
