@@ -75,6 +75,7 @@ button {
     background-color: rgb(204, 90, 90);
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
 }
 #container8end {
     width: 90%;
@@ -152,6 +153,7 @@ main {
     border-radius: 10px;
 }
 @media (min-width: 1000px) {
+
     
 
 div {
@@ -176,4 +178,20 @@ navli a {
     font-size: 20px;
     padding: 10px 20px;
     margin: 10px 0;
+}
+.content-section {
+  flex: 2;
+  
+  padding: 1rem;
+  border-radius: 8px;
+}
+.sidebar {
+  flex: 1;
+  background-color: #eee;
+  padding: 1rem;
+  border-radius: 8px;
+  image {
+    width: 25%;
+    height: 25%;
+}
 }
