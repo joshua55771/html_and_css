@@ -37,7 +37,7 @@ a:hover {
 /* Mobile styles */
 
 body {
-    font-family: Arial, sans-serif;
+   
     line-height: 1.6;
     font-size: 30px;
     text-align: left;
@@ -78,7 +78,7 @@ button {
     width: 90%;
     height: 90%;
     margin: 0 auto;
-    background-color: rgb(97, 15, 93);
+    background-color: rgb(150, 36, 144);
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
