@@ -65,7 +65,7 @@ button {
     background-color: rgb(46, 148, 53);
     padding: 20px;
     box-shadow: 0 0 10px rgb(6, 94, 25);
-    size: 100px;
+    
 }
 #container8nether {
     width: 90%;
@@ -238,7 +238,7 @@ h5 {
     color: black;
     font-size: 30px;
     margin: 4% ;
-    size: 40%;
+
 }
  #overworld1 {
     display : block;
