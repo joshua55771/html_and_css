@@ -204,21 +204,21 @@ nav li a {
   width: 60%;
   margin-top: 5%;
 }
-div1 {
+div-h1 {
     display : block;
     margin: 4%;
     float: left;
     width: 50%;
     background-color: rgb(204, 90, 90);
 }
-div2 {
+div-h2 {
     display : block;
     margin-top: 4%;
     float: right;
     width: 40%;
     background-color:rgb(204, 90, 90) ;
 }
-div3 {
+div-h3 {
     display : block;
     margin: 0%;
     float: left;
@@ -238,16 +238,16 @@ h5 {
     margin: 4% ;
     size: 40%;
 }
-div6 {
+div-h6 {
     display : block;
-    margin: 2%;
+    margin: 0%;
     margin-top: 4%;
     float: left;
     width: 45%;
     background-color: rgb(46, 148, 53); 
 
 }
-div h2 {
+div-h7 {
     display : block;
     margin: 2%;
     margin-top: 4%;
