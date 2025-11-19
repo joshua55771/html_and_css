@@ -6,6 +6,7 @@
 <li><a href="Advanced_CSS/index.html" target="_blank">Advanced CSS</a><li>
 <li><a href="Responsive_Web_Design/index.html" target="_blank">Responsive Web Design</a><li>
 <li><a href="Final-Project/index.html" target="_blank">Final Project</a><li>
+<li><a href="Final-for-History/index.html" target="_blank">Final for History</a><li>
 </ul>
 
 
